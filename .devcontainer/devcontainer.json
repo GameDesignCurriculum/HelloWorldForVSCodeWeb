@@ -30,7 +30,10 @@
 			"extensions": [
 				"ms-dotnettools.csdevkit"
 			]
-		}
+		},
+		   "codespaces": {
+        "openFiles": ["Program.cs"]
+      }
 	}
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
