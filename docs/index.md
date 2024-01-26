@@ -8,3 +8,8 @@ Markdown to Template Quickstart codespaces
 
 HTML Quickstart to Codespaces
 <a href='https://codespaces.new/GameDesignCurriculum/HelloWorldForVSCodeWeb?quickstart=1'><img src='https://github.com/codespaces/badge.svg' alt='Open in GitHub Codespaces' style='max-width: 100%;'></a>
+
+
+Here is the first assignment:
+
+[Access Exercises](https://classroom.github.com/a/Ph7mfV7R)
