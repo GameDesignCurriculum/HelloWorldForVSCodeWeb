@@ -11,5 +11,5 @@ HTML Quickstart to Codespaces
 
 
 Here is the first assignment:
+<a href='https://classroom.github.com/a/Ph7mfV7R'>Access Exercises</a>
 
-[Access Exercises](https://classroom.github.com/a/Ph7mfV7R)
